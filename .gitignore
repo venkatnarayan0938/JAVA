@@ -1,0 +1,6 @@
+narayana
+todo.txt
+*.log
+*.pyc
+.env
+*.sqlite
